@@ -5,3 +5,33 @@
 </h1>
 
 #### A guide covering Data Structures and Algorithms such as Arrays, Linked Lists, Trees, Hashtables, Stacks, Queues, Heaps, Graphs, Sorting & Searching, and Dynamic programming.
+
+## Resources
+
+[VisualGo: Visualising data structures and algorithms through animation](https://visualgo.net/en)
+
+[Data Structure & Algorithms Visualizations](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
+
+[Learning Data Structures and Algorithms courses on Coursera](https://www.coursera.org/specializations/data-structures-algorithms)
+
+[Learning Data Structures and Algorithms courses on Udemy](https://www.udemy.com/courses/search/?src=ukw&q=Data+Structures+and+Algorithms)
+
+[Learning Data Structures and Algorithms courses on edX](https://www.edx.org/search?q=Algorithms%20and%20Data%20Structures)
+
+[Intro to Data Structures and Algorithms courses on Udacity](https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513)
+
+[Learning Algorithms courses on Khan Academy](https://www.khanacademy.org/computing/computer-science/algorithms)
+
+[Data Structures and Algorithms course from Harvard University](https://online-learning.harvard.edu/course/data-structures-and-algorithms)
+
+[Data Structures and Algorithms course from Standford University(CS 166)](http://web.stanford.edu/class/cs166/)
+
+[Learning Data Structures and Algorithms on CodeChef](https://www.codechef.com/certification/data-structures-and-algorithms/prepare)
+
+[Learning Algorithms and Data Structures courses on Pluralsight](https://www.pluralsight.com/courses/algorithms-data-structures-part-one)
+
+[Data structure and algorithms online course on Learnbay.io](https://www.learnbay.io/data-structures-algorithms/)
+
+[Discrete Probability](https://en.wikibooks.org/wiki/High_School_Mathematics_Extensions/Discrete_Probability)
+
+[Mathematical Proofs](https://en.wikibooks.org/wiki/High_School_Mathematics_Extensions/Mathematical_Proofs)
