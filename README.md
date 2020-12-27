@@ -93,3 +93,44 @@
 - Binary Heap
 
 [Graphs](https://www.thedshandbook.com/graphs/) is a data structure that represent relations between pairs of objects. It consists of nodes (known as vertices) that are connected through links (known as edges). 
+
+## Algorithms
+
+**Graph Algorithms**
+
+- Breadth First Search (BFS)
+- Depth First Search (DFS)
+- Shortest Path from source to all vertices **Dijkstra**
+- Shortest Path from every vertex to every other vertex **Floyd Warshall**
+- Minimum Spanning tree **Prim**
+- Minimum Spanning tree **Kruskal**
+- Topological Sort
+- Articulation Points (Cut Vertices) in a Graph
+- Bridges in a graph
+
+
+**Searching And Sorting**
+
+- Binary Search
+- Quick Sort
+- Merge Sort
+- Order Statistics
+- KMP algorithm
+- Rabin karp
+- Z’s algorithm
+- String Matching/String Parsing
+- Counting Sort
+
+
+**Dynamic Programming**
+
+- Longest Common Subsequence
+- Longest Increasing Subsequence
+- Edit Distance
+- Minimum Partition
+- Ways to Cover a Distance
+- Longest Path In Matrix
+- Subset Sum Problem
+- Optimal Strategy for a Game
+- 0-1 Knapsack Problem
+- Assembly Line Scheduling
