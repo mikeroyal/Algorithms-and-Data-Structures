@@ -35,3 +35,22 @@
 [Discrete Probability](https://en.wikibooks.org/wiki/High_School_Mathematics_Extensions/Discrete_Probability)
 
 [Mathematical Proofs](https://en.wikibooks.org/wiki/High_School_Mathematics_Extensions/Mathematical_Proofs)
+
+## Algorithmic Complexity Analysis
+
+ - Big O Notation
+ - Time Complexity
+ - Space Complexity
+ 
+ <img src="https://user-images.githubusercontent.com/45159366/103180857-ad797800-484e-11eb-9996-293ef282af76.jpg">
+ 
+ **Order of growth of algorithms specified in Big-O notation. Source: Big-O Cheat Sheet, 2016.**
+ 
+  <img src="https://user-images.githubusercontent.com/45159366/103180859-b1a59580-484e-11eb-96d9-30456b2dc123.jpg">
+ 
+ **Complexity of operations on Data Structures. Source: Big-O Cheat Sheet, 2016.**
+ 
+ 
+ <img src="https://user-images.githubusercontent.com/45159366/103180858-b0746880-484e-11eb-91ce-40defb302a6f.jpg">
+ 
+ **Complexity of Sorting algorithms. Source: Big-O Cheat Sheet, 2016.**
