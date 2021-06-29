@@ -1,5 +1,5 @@
 <h1 align="center">
- <img src="https://user-images.githubusercontent.com/45159366/103180856-ace0e180-484e-11eb-8c0e-2e218333be07.png">
+ <img src="https://user-images.githubusercontent.com/45159366/123861400-f8e31080-d8db-11eb-8908-3c5341881d44.png">
   <br />
   Algorithms & Data Structures Guide
 </h1>
@@ -22,7 +22,7 @@
 [Fuzzy logic](https://www.investopedia.com/terms/f/fuzzy-logic.asp) is a heuristic approach that allows for more advanced decision-tree processing and better integration with rules-based programming.
 
 <p align="center">
- <img src="https://user-images.githubusercontent.com/45159366/123858044-e6ff6e80-d8d7-11eb-9115-994313f1ed44.png">
+ <img src="https://user-images.githubusercontent.com/45159366/123861872-858dce80-d8dc-11eb-9a2c-51205d1541e9.png">
   <br />
 </p>
 
