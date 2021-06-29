@@ -1,12 +1,77 @@
 <h1 align="center">
  <img src="https://user-images.githubusercontent.com/45159366/103180856-ace0e180-484e-11eb-8c0e-2e218333be07.png">
   <br />
-  Data Structures & Algorithms Guide
+  Algorithms & Data Structures Guide
 </h1>
 
-#### A guide covering Data Structures and Algorithms such as Arrays, Linked Lists, Trees, Hashtables, Stacks, Queues, Heaps, Graphs, Sorting & Searching, and Dynamic programming.
+#### A guide covering Data Structures and Algorithms such as Neural networks, MLPs, Arrays, Linked Lists, Trees, Hashtables, Stacks, Queues, Heaps, Graphs, Sorting & Searching, and Dynamic programming.
 
-## Resources
+**Note: You can easily convert this markdown file to a PDF in [VSCode](https://code.visualstudio.com/) using this handy extension [Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf).**
+
+ <p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/123858017-e1098d80-d8d7-11eb-80ae-9858998a2604.png">
+  <br />
+</p>
+
+## Algorithms & Data Structures Learning Resources
+
+[Algorithm](https://en.wikipedia.org/wiki/Algorithm) is a procedure of well-defined, computer implementabled instructions, typically to solve a class of specific problems or to perform a computation task such as data processing, automated reasoning, and machine learning.
+
+[Data Structure](https://www.w3schools.in/data-structures-tutorial/intro/) is a specific way to store and organize data in a computer's memory so that these data can be used efficiently later. Data may be arranged in many different ways, such as the logical or mathematical model for a particular organization of data is termed as a data structure.
+
+[Fuzzy logic](https://www.investopedia.com/terms/f/fuzzy-logic.asp) is a heuristic approach that allows for more advanced decision-tree processing and better integration with rules-based programming.
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/123858044-e6ff6e80-d8d7-11eb-9115-994313f1ed44.png">
+  <br />
+</p>
+
+**Architecture of a Fuzzy Logic System. Source: [ResearchGate](https://www.researchgate.net/figure/Architecture-of-a-fuzzy-logic-system_fig2_309452475)**
+
+[Support Vector Machine (SVM)](https://web.stanford.edu/~hastie/MOOC-Slides/svm.pdf) is a supervised machine learning model that uses classification algorithms for two-group classification problems.
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/123858065-ec5cb900-d8d7-11eb-81c5-c6a8feefa84f.png">
+  <br />
+</p>
+
+**Support Vector Machine (SVM). Source:[OpenClipArt](https://openclipart.org/detail/182977/svm-support-vector-machines)**
+
+[Neural networks](https://www.ibm.com/cloud/learn/neural-networks) are a subset of machine learning and are at the heart of deep learning algorithms. The name/structure is inspired by the human brain copying the process that biological neurons/nodes signal to one another.
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/123858036-e5ce4180-d8d7-11eb-8c52-43d7c7e6e3c4.png">
+  <br />
+</p>
+
+**Deep neural network. Source: [IBM](https://www.ibm.com/cloud/learn/neural-networks)**
+
+[Convolutional Neural Networks (R-CNN)](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-convolutional-neural-networks) is an object detection algorithm that first segments the image to find potential relevant bounding boxes and then run the detection algorithm to find most probable objects in those bounding boxes.
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/123858026-e36be780-d8d7-11eb-9034-8859d6f09490.png">
+  <br />
+</p>
+
+**Convolutional Neural Networks. Source:[CS231n](https://cs231n.github.io/convolutional-networks/#conv)**
+
+[Recurrent neural networks (RNNs)](https://www.ibm.com/cloud/learn/recurrent-neural-networks) is a type of artificial neural network which uses sequential data or time series data.
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/123858062-ebc42280-d8d7-11eb-9252-97e058bda8bd.png">
+  <br />
+</p>
+
+**Recurrent Neural Networks. Source: [Slideteam](https://www.slideteam.net/recurrent-neural-networks-rnns-ppt-powerpoint-presentation-file-templates.html)**
+
+[Multilayer Perceptrons (MLPs)](https://deepai.org/machine-learning-glossary-and-terms/multilayer-perceptron) is multi-layer neural networks composed of multiple layers of [perceptrons](https://en.wikipedia.org/wiki/Perceptron) with a threshold activation.
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/123858053-e8c93200-d8d7-11eb-844c-60463ecf662c.png">
+  <br />
+</p>
+
+**Multilayer Perceptrons. Source: [DeepAI](https://deepai.org/machine-learning-glossary-and-terms/multilayer-perceptron)**
 
 [VisualGo: Visualising data structures and algorithms through animation](https://visualgo.net/en)
 
@@ -44,16 +109,16 @@
  
  <img src="https://user-images.githubusercontent.com/45159366/103180857-ad797800-484e-11eb-9996-293ef282af76.jpg">
  
- **Order of growth of algorithms specified in Big-O notation. Source: Big-O Cheat Sheet, 2016.**
+ **Order of growth of algorithms specified in Big-O notation. Source: Big-O Cheat Sheet**
  
   <img src="https://user-images.githubusercontent.com/45159366/103180859-b1a59580-484e-11eb-96d9-30456b2dc123.jpg">
  
- **Complexity of operations on Data Structures. Source: Big-O Cheat Sheet, 2016.**
+ **Complexity of operations on Data Structures. Source: Big-O Cheat Sheet**
  
  
  <img src="https://user-images.githubusercontent.com/45159366/103180858-b0746880-484e-11eb-91ce-40defb302a6f.jpg">
  
- **Complexity of Sorting algorithms. Source: Big-O Cheat Sheet, 2016.**
+ **Complexity of Sorting algorithms. Source: Big-O Cheat Sheet**
 
 
 ## Data Structures
@@ -134,3 +199,13 @@
 - Optimal Strategy for a Game
 - 0-1 Knapsack Problem
 - Assembly Line Scheduling
+
+
+## Contribute
+
+- [x] If would you like to contribute to this guide simply make a [Pull Request](https://github.com/mikeroyal/Algorithms-and-Data-Structures-Guide/pulls).
+
+
+## License
+
+Distributed under the [Creative Commons Attribution 4.0 International (CC BY 4.0) Public License](https://creativecommons.org/licenses/by/4.0/).
