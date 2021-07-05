@@ -12,7 +12,7 @@
 
 1. [Algorithms & Data Structures Learning Resources](https://github.com/mikeroyal/Algorithms-and-Data-Structures#algorithms--data-structures-learning-resources)
 
-2. [Alogirthms](https://github.com/mikeroyal/Algorithms-and-Data-Structures#algorithms)
+2. [Algoirthms](https://github.com/mikeroyal/Algorithms-and-Data-Structures#algorithms)
 
 3. [Algorithmic Complexity Analysis](https://github.com/mikeroyal/Algorithms-and-Data-Structures#algorithmic-complexity-analysis)
 
