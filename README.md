@@ -12,7 +12,7 @@
 
 1. [Algorithms & Data Structures Learning Resources](https://github.com/mikeroyal/Algorithms-and-Data-Structures#algorithms--data-structures-learning-resources)
 
-2. [Algoirthms](https://github.com/mikeroyal/Algorithms-and-Data-Structures#algorithms)
+2. [Algorithms](https://github.com/mikeroyal/Algorithms-and-Data-Structures#algorithms)
 
 3. [Algorithmic Complexity Analysis](https://github.com/mikeroyal/Algorithms-and-Data-Structures#algorithmic-complexity-analysis)
 
@@ -226,7 +226,7 @@
  - Red-Black Tree
  - N-ary Tree
 
-[Hash Tables](https://docs.microsoft.com/en-us/powershell/scripting/learn/deep-dives/everything-about-hashtable?view=powershell-7.1)is a data structure, much like an array, except you store each value (object) using a key. It is a basic key/value store for mapping known as a hash function.
+[Hash Tables](https://docs.microsoft.com/en-us/powershell/scripting/learn/deep-dives/everything-about-hashtable?view=powershell-7.1) are a data structure, much like an array, except you store each value (object) using a key. It is a basic key/value store for mapping known as a hash function.
 
 [Stacks](https://www.thedshandbook.com/stacks/) is a linear data structure that store data in an order known as the Last In First Out (LIFO) order. 
 
