@@ -8,6 +8,11 @@
 
 **Note: You can easily convert this markdown file to a PDF in [VSCode](https://code.visualstudio.com/) using this handy extension [Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf).**
 
+ <p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/123858017-e1098d80-d8d7-11eb-80ae-9858998a2604.png">
+  <br />
+</p>
+
 # Table of Contents
 
 1. [Algorithms & Data Structures Learning Resources](https://github.com/mikeroyal/Algorithms-and-Data-Structures#algorithms--data-structures-learning-resources)
@@ -18,10 +23,6 @@
 
 4. [Data Structures](https://github.com/mikeroyal/Algorithms-and-Data-Structures#data-structures)
 
- <p align="center">
- <img src="https://user-images.githubusercontent.com/45159366/123858017-e1098d80-d8d7-11eb-80ae-9858998a2604.png">
-  <br />
-</p>
 
 ## Algorithms & Data Structures Learning Resources
 [Back to the Top](https://github.com/mikeroyal/Algorithms-and-Data-Structures#table-of-contents)
