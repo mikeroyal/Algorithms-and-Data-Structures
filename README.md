@@ -83,6 +83,13 @@
 
 [Neural networks](https://www.ibm.com/cloud/learn/neural-networks) are a subset of machine learning and are at the heart of deep learning algorithms. The name/structure is inspired by the human brain copying the process that biological neurons/nodes signal to one another.
 
+ <p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/136625300-9b4ff246-edfb-410e-8048-31163bfb4b5d.png">
+  <br />
+</p>
+
+**Neural Networks Toplogies. Source: [Fjodor van Veen](https://www.asimovinstitute.org/author/fjodorvanveen/) from [Asimov institute](https://www.asimovinstitute.org/).**
+
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/123858036-e5ce4180-d8d7-11eb-8c52-43d7c7e6e3c4.png">
   <br />
@@ -97,7 +104,7 @@
   <br />
 </p>
 
-**Convolutional Neural Networks. Source:[CS231n](https://cs231n.github.io/convolutional-networks/#conv)**
+**Convolutional Neural Networks. Source: [CS231n](https://cs231n.github.io/convolutional-networks/#conv)**
 
 [Recurrent neural networks (RNNs)](https://www.ibm.com/cloud/learn/recurrent-neural-networks) is a type of artificial neural network which uses sequential data or time series data.
 
@@ -133,7 +140,7 @@
   <br />
 </p>
 
-***Decision Trees. Source: [CMU](http://www.cs.cmu.edu/~bhiksha/courses/10-601/decisiontrees/)*
+***Decision Trees. Source: [CMU](http://www.cs.cmu.edu/~bhiksha/courses/10-601/decisiontrees/)**
 
 [Naive Bayes](https://en.wikipedia.org/wiki/Naive_Bayes_classifier) is a machine learning algorithm that is used solved calssification problems. It's based on applying [Bayes' theorem](https://www.mathsisfun.com/data/bayes-theorem.html) with strong independence assumptions between the features.
 
@@ -142,7 +149,7 @@
   <br />
 </p>
 
-**Bayes' theorem. Source:[mathisfun](https://www.mathsisfun.com/data/bayes-theorem.html)**
+**Bayes' theorem. Source: [mathisfun](https://www.mathsisfun.com/data/bayes-theorem.html)**
 
 **Graph Algorithms**
 
